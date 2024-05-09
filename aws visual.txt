@@ -1,0 +1,5 @@
+# Read more about SSH config files: https://linux.die.net/man/5/ssh_config
+Host servertest
+    HostName 3.85.85.244
+    User admin
+    IdentityFile c:\Users\Victor23VD\Documents\AWS\servertest1.pem
